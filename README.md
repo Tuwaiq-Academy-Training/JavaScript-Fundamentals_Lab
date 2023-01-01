@@ -1,6 +1,6 @@
 # JavaScript-Fundamentals_Lab
 
-#بنا على ما تعلمنا في  [JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lesson) سوف نقوم بحل التمرين التالية : 
+# بنا على ما تعلمنا في  [JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lesson) سوف نقوم بحل التمرين التالية : 
 -  قم بتخزين اسمك الثلاثي في ثلاث متغيرات (الاسمك , اسم الاب , العائلة). 
 - اكتب دالة تقوم باستقبال ثلاث `Arguments` (الاسم الثلاثي )و تقوم بدمج الأسم الثلاث في جملة واحدة .
 - قم بكتابة `loop` تقوم بطباعة الأرقام الزوجية من 1 الى 20 .
