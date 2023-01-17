@@ -1,6 +1,6 @@
 # JavaScript-Fundamentals_Lab
 
-# بنا على ما تعلمنا في  [JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lesson) سوف نقوم بحل التمرين التالية :
+# بنا على ما تعلمنا في  [JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-Fundamentals-Lesson) سوف نقوم بحل التمرين التالي :
 (قبل كل سوال اكتب تعليق بالسوال نفسه) :
 - قم بتخزين اسمك الثلاثي في ثلاث متغيرات (الاسم الأول , اسم الاب , العائلة). 
 - قم بكتابة مثالين على الثوابت .
